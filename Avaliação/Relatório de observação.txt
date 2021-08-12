@@ -1,0 +1,43 @@
+Estrutura do relatório de observação:
+
+Capa
+Contra-capa
+Introdução
+Proposta de avaliação
+Metodologia de jogabilidade e testes
+	Como os grupos foram organizados e divididos para realização dos testes
+Jogos
+	Histórico do jogo
+	Apresentação do jogo
+
+Avaliação vantagens x desvantagens
+
+Entrevista
+
+Conclusão
+
+Referência
+
+
+
+Questionário de entrevista:
+
+- Utilização de escala de likert
+
+ruim 	0 a 5	excelente
+
+- Satisfação em relação ao uso do sistema
+- Em relação a sua expectativa ao que o sistema propôs fazer
+- Os layouts das telas foram úteis
+- Quantidade de informação mostrada na tela
+- Organização da informação 
+- Seqüência de Telas
+- Mensagens que apareceram nas telas
+- Instruções para comandos ou funções
+- Aprendizado para operar o jogo
+- Tempo para aprender a usar o jogo
+- Descoberta de novas funcionalidades
+- Lembrança de nomes e usos de comandos
+- Número de passos para executar uma tarefa
+- Falhas ocorridas no jogo
+- Observações
